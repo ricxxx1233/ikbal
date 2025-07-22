@@ -14,7 +14,7 @@
 :root {
   --bg-color: #fdfdfd;
   --text-color: #333;
-  --main-color: #d4af37;
+  --main-color: #10394d;
   --white-color: #fdfdfd;
   --shadow-color: rgba(0, 0, 0, 0.2);
 }
@@ -495,7 +495,7 @@ span {
 
 .testimonial-slide img {
   /* width: rem; */
-  height: 30rem;
+  height: 20rem;
   object-fit: cover;
   border-radius: 0%;
   border: 0.5rem solid var(--bg-color);
@@ -935,4 +935,9 @@ span {
 }
 img {
   border-radius: 20px;
+}
+
+.text2 {
+  font-size: 25px;
+  font-weight: 500;
 }
